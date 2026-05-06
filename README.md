@@ -1,6 +1,5 @@
 Future Data Science Specialist | Data Storyteller | Canva Creative
 
-
 # 💫 What I am:
 I'm a B.Tech CSE (Data Science) student at Presidency University, deeply passionate about playing with data—uncovering hidden patterns, building predictive models, and transforming raw numbers into compelling insights.I’m a passionate tech enthusiast with a strong interest in web development & data analysis. When I'm not decoding datasets, you'll find me crafting stunning visuals on Canva that make complex ideas beautifully simple.<br>🔭 Currently working on: Building impactful projects to supercharge my GitHub & LinkedIn presence<br>🌱 Currently learning: Advanced ML pipelines, data storytelling & end-to-end project deployment<br>👯 Looking to collaborate on: Open-source data projects, hackathons, and creative tech initiatives<br>💼 Seeking: Internship opportunities where I can turn data into real-world impact<br>⚡ Fun fact: I multitask like a pro—juggling on  CGPA, active project building, and fully enjoying my uni life without breaking a sweat!<br>
 
