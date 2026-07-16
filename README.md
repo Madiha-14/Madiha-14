@@ -1,29 +1,93 @@
-Future Data Science Specialist | Data Storyteller | Canva Creative
+<div align="center">
 
-# 💫 What I am:
-I'm a B.Tech CSE (Data Science) student at Presidency University, deeply passionate about playing with data—uncovering hidden patterns, building predictive models, and transforming raw numbers into compelling insights.I’m a passionate tech enthusiast with a strong interest in web development & data analysis. When I'm not decoding datasets, you'll find me crafting stunning visuals on Canva that make complex ideas beautifully simple.<br>🔭 Currently working on: Building impactful projects to supercharge my GitHub & LinkedIn presence<br>🌱 Currently learning: Advanced ML pipelines, data storytelling & end-to-end project deployment<br>👯 Looking to collaborate on: Open-source data projects, hackathons, and creative tech initiatives<br>💼 Seeking: Internship opportunities where I can turn data into real-world impact<br>⚡ Fun fact: I multitask like a pro—juggling on  CGPA, active project building, and fully enjoying my uni life without breaking a sweat!<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF1E1E&height=220&section=header&text=Hi%20There,%20I'm%20Madiha%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF1E1E&center=true&vCenter=true&width=650&lines=Data+Science+Undergrad+%7C+Builder+of+Things;Turning+Messy+Data+Into+Clean+Stories;Currently+Debugging+Life+%26+Code" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madee_ha.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madiha) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Madiha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madihaali552@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m=Madiha-14&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m=Madiha-14&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m=Madiha-14&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/madiha-3b02b230a)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-FF1E1E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/madee_ha.ai)
+[![Gmail](https://img.shields.io/badge/Email-madihaali552%40gmail.com-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:madihaali552@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF1E1E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](#)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m=Madiha-14&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m=Madiha-14&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+## 💫 Beyond the Resume
 
----
-[![](https://visitcount.itsvg.in/api?id=m=Madiha-14&icon=7&color=4)](https://visitcount.itsvg.in)
+I'm a fourth-year **B.Tech Computer Science (Data Science)** student at Presidency University who treats raw data the way most people treat gossip — I can't rest until I know the full story behind it. Give me a messy spreadsheet and a deadline, and I'll hand you back a model, a dashboard, and probably a slightly-too-enthusiastic Canva slide explaining it.
 
+I build things end-to-end: I've trained a model that predicts diabetes risk, shipped it behind a web interface, and I've built three other projects that either automate boring work or catch bad behavior before it becomes a headline. I'm not just decoding datasets — I'm looking for a team that'll let me decode *yours*.
+
+<br/>
+
+## 🎯 Currently
+
+```
+🔭  Building projects that make my GitHub look as busy as my brain actually is
+🌱  Leveling up on advanced ML pipelines & end-to-end deployment
+👯  Down to collaborate on open-source data projects, hackathons & scrappy tech ideas
+💼  Actively hunting for a Data Science internship — let's talk
+⚡  Fun fact: I run on caffeine, deadlines, and an unreasonable love for clean visuals
+```
+
+<br/>
+
+## 🧰 Skills
+
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-FF1E1E?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-FF1E1E?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF1E1E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
+![PowerBI](https://img.shields.io/badge/Power_BI-FF1E1E?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-FF1E1E?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FF1E1E?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-FF1E1E?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+![Flask](https://img.shields.io/badge/Flask-FF1E1E?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-FF1E1E?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-FF1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Canva](https://img.shields.io/badge/Canva-FF1E1E?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000)
+
+**Computer Programming**
+![DBMS](https://img.shields.io/badge/DBMS-FF1E1E?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000)
+![OOPS](https://img.shields.io/badge/OOPS-FF1E1E?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![Operating System](https://img.shields.io/badge/Operating_System-FF1E1E?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)
+![COA](https://img.shields.io/badge/Computer_Organization_&_Architecture-FF1E1E?style=for-the-badge&logo=intel&logoColor=white&labelColor=000000)
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Madiha-14&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&border_color=FF1E1E&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madiha-14&layout=compact&theme=transparent&bg_color=0D0D0D&title_color=FF1E1E&text_color=FFFFFF&border_color=FF1E1E&hide_border=false"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madiha-14&theme=dark&background=0D0D0D&stroke=FF1E1E&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FF1E1E" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Madiha-14&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+<br/>
+
+## 💬 Let's Talk
+
+If your team needs someone who'll actually read the dataset's fine print before building the model — and make the slide deck look good afterward — I'm one message away.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/madiha-3b02b230a)
+[![Gmail](https://img.shields.io/badge/Email-Reach_Out-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:madihaali552@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Madiha-14&color=FF1E1E&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,100:0D0D0D&height=100&section=footer" width="100%"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
